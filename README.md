@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Ayush Shukla
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:6C63FF&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20FullStack%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:6C63FF&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full Stack%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
 </p>
 
 <p align="center">
