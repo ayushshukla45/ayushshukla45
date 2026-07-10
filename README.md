@@ -126,7 +126,8 @@ An AI-powered assessment platform designed to determine student readiness levels
 
 ## 🎖 Experience
 
-### CCC Digital India
+### CCC Digital India Private Limited
+*Intern (Product Engineering with AI)*
 - Multi-role login portal
 - AI chatbot integration
 - Chart.js analytics
