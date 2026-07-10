@@ -81,7 +81,7 @@ An AI-powered assessment platform designed to determine student readiness levels
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ayushshukla45&count_private=true&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=ayushshukla45&count_private=true&theme=tokyonight&v=1" alt="GitHub Streak" />
   </a>
 </p>
 
