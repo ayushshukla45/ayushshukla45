@@ -60,7 +60,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshukla45&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshukla45&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" />
 </p>
 
 ---
