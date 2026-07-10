@@ -64,7 +64,6 @@
 </p>
 
 ---
-
 ### 🔝 Top Contributed Repository
 > **[student-readiness-score-engine-frontend](https://github.com/amlan-ccc/student-readiness-score-engine-frontend)** 🔒 *(Private Enterprise Repository)*
 
@@ -75,21 +74,13 @@ An AI-powered assessment platform designed to determine student readiness levels
 *   **Tech Stack:** React 19, TypeScript, Vite, TanStack Router, Tailwind CSS, Shadcn UI, Radix UI.
 *   **Engineering Contributions:** Implemented feature structure guidelines, rigorous type-safety conventions (`avoid-any`), strict endpoint service isolation, and lint/build optimization pipelines.
 
----
-# 📊 GitHub Stats
+## 💬 Random Dev Quote
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=ayushshukla45&count_private=true&theme=tokyonight&v=1" alt="GitHub Streak" />
-  </a>
-</p>
-
----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## 🌍 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushshukla45&theme=tokyo-night"/>
-
 
 ## 🐍 Snake Contribution
 
@@ -97,70 +88,6 @@ An AI-powered assessment platform designed to determine student readiness levels
   <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" alt="Snake animation" />
 </p>
 
-
-## 💻 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/Ayushshukla67"><img src="https://img.shields.io/badge/LeetCode-1a1b26?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
-  <a href="https://www.codechef.com/users/shy_seas_44"><img src="https://img.shields.io/badge/CodeChef-1a1b26?style=for-the-badge&logo=codechef&logoColor=ffffff" alt="CodeChef" /></a>
-</p>
-
-
-## 🚀 Featured Projects
-
-### 🛍 Rentie
-- MERN clothing rental platform
-- Responsive Tailwind UI
-- REST APIs & booking workflow
-
-### 📊 FinDash
-- React + TypeScript
-- Interactive analytics dashboard
-- Recharts + Context API
-
-### 🎓 Academic Performance Prediction
-- Random Forest ML Model
-- Streamlit Deployment
-- GPA Prediction Dashboard
-
----
-
-## 🎖 Experience
-
-### CCC Digital India Private Limited
-*Intern (Product Engineering with AI)*
-- Multi-role login portal
-- AI chatbot integration
-- Chart.js analytics
-- REST API integration
-
-### Next Tech Labs
-- 10+ reusable React components
-- Responsive web platform
-
-## 📜 Certifications
-
-- GirlScript Summer of Code 2025
-- Open Source Connect India
-- HACKX - Microsoft Student Community
-
-## 🏅 Achievements
-
-- Google Student Ambassador
-- UIMO AIR 843
-- NSTSE AIR 1948
-
-## 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
-
-## 🎯 Fun Facts
-
-- ☕ Coffee + Code = Productivity
-- 🚀 Love building impactful products
-- 📚 Always learning something new
 
 ## 🤝 Let's Connect
 
