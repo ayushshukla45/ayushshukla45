@@ -70,6 +70,7 @@
 
 An AI-powered assessment platform designed to determine student readiness levels, identify core skill gaps, and serve personalized learning tracks.
 
+*   **Core Metrics:** Primary Frontend Contributor — **89 Total Commits** | **9 Lifecycle Pull Requests** (6 successfully merged to production core).
 *   **Architecture:** Scalable, Type-Safe Feature-Based Architecture (isolated component, hook, schema, and service encapsulation layers per business module).
 *   **Tech Stack:** React 19, TypeScript, Vite, TanStack Router, Tailwind CSS, Shadcn UI, Radix UI.
 *   **Engineering Contributions:** Implemented feature structure guidelines, rigorous type-safety conventions (`avoid-any`), strict endpoint service isolation, and lint/build optimization pipelines.
