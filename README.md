@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Ayush Shukla
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:6C63FF&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Frontend%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:6C63FF&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20FullStack%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
 </p>
 
 <p align="center">
@@ -87,10 +87,3 @@ An AI-powered assessment platform designed to determine student readiness levels
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" alt="Snake animation" />
 </p>
-
-
-## 🤝 Let's Connect
-
-If you'd like to collaborate on Web Development, AI, Open Source, or Hackathons, feel free to connect!
-
-⭐ If you like my work, consider starring my repositories.
