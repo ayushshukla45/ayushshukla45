@@ -97,12 +97,13 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=ayushshukla45&theme=algolia&no-frame=true&row=1&column=7"/>
 
+
 ## 🐍 Snake Contribution
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshla45/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 ## 💻 Coding Profiles
 
