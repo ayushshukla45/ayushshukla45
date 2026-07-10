@@ -49,6 +49,13 @@
 </p>
 
 ---
+
+## 🔝 Top Contributed Repository
+> **[student-readiness-score-engine-frontend](https://github.com/amlan-ccc/student-readiness-score-engine-frontend)** 🔒 *(Internal CCC Enterprise Repository)*
+* Development of analytics interface and assessment evaluation engine.
+* **Core Stack:** React.js, TypeScript, TailWindCSS
+
+---
 # 📊 GitHub Stats
 
 <p align="center">
