@@ -56,10 +56,11 @@
   <!-- Core Languages & Frameworks -->
   <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind" alt="Tech Stack" />
   <br><br>
-  <!-- Machine Learning & Data Engineering -->
+  <!-- Machine Learning & Data Engineering — Fully Harmonized -->
   <img src="https://img.shields.io/badge/Scikit--Learn-1a1b26?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn" />
   <img src="https://img.shields.io/badge/Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-1a1b26?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-1a1b26?style=for-the-badge&logo=matplotlib&logoColor=ffffff" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Streamlit-1a1b26?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
 </p>
 
@@ -98,8 +99,10 @@ An AI-powered assessment platform designed to determine student readiness levels
 
 ## 💻 Coding Profiles
 
-- LeetCode: 200+ Problems
-- CodeChef: 200+ Problems (Bronze)
+<p align="left">
+  <a href="https://leetcode.com/u/Ayushshukla67"><img src="https://img.shields.io/badge/LeetCode-1a1b26?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/shy_seas_44"><img src="https://img.shields.io/badge/CodeChef-1a1b26?style=for-the-badge&logo=codechef&logoColor=ffffff" alt="CodeChef" /></a>
+</p>
 
 
 ## 🚀 Featured Projects
@@ -121,7 +124,7 @@ An AI-powered assessment platform designed to determine student readiness levels
 
 ---
 
-## 💼 Experience
+## 🎖 Experience
 
 ### CCC Digital India
 - Multi-role login portal
