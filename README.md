@@ -37,23 +37,15 @@
 
 ## 🛠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind"/>
-</p>
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</p
----
-
-## 🔝 Top Contributed Repository
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ayushshukla45&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+<p align="left">
+  <!-- Core Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind" alt="Tech Stack" />
+  <br><br>
+  <!-- Machine Learning & Data Engineering -->
+  <img src="https://img.shields.io/badge/Scikit--Learn-1a1b26?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-1a1b26?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Streamlit-1a1b26?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
 </p>
 
 ---
