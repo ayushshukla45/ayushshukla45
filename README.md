@@ -99,34 +99,9 @@
 
 ## 🐍 Snake Contribution
 
-> Enable using GitHub Actions after creating the profile repo.
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ayushshukla45
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-```
-
-Display:
-
-```md
 <p align="center">
-<img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
-```
 
 ## 💻 Coding Profiles
 
