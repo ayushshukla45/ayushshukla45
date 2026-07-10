@@ -60,9 +60,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=ayushshukla45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Ayush's GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshukla45&theme=tokyonight&hide_border=false" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=ayushshukla45&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshukla45&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
