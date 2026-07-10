@@ -60,7 +60,7 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshukla45&theme=tokyonight" alt="GitHub Summary" width="85%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushshukla45&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---
