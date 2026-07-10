@@ -41,9 +41,52 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind"/>
 </p>
 
-**ML:** Scikit-learn • Pandas • NumPy • Streamlit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p
+---
+
+## 🔝 Top Contributed Repository
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ayushshukla45&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
 
 ---
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushshukla45&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshukla45&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshukla45&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="170"/>
+</p>
+
+---
+
+## 🌍 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushshukla45&theme=tokyo-night"/>
+
+
+## 🐍 Snake Contribution
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" alt="Snake animation" />
+</p>
+
+
+## 💻 Coding Profiles
+
+- LeetCode: 200+ Problems
+- CodeChef: 200+ Problems (Bronze)
+
 
 ## 🚀 Featured Projects
 
@@ -75,40 +118,6 @@
 ### Next Tech Labs
 - 10+ reusable React components
 - Responsive web platform
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushshukla45&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshukla45&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshukla45&theme=tokyonight"/>
-</p>
-
-## 🌍 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushshukla45&theme=tokyo-night"/>
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushshukla45&theme=algolia&no-frame=true&row=1&column=7"/>
-
-
-## 🐍 Snake Contribution
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" alt="Snake animation" />
-</p>
-
-
-## 💻 Coding Profiles
-
-- LeetCode: 200+ Problems
-- CodeChef: 200+ Problems (Bronze)
 
 ## 📜 Certifications
 
