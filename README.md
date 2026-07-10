@@ -50,10 +50,14 @@
 
 ---
 
-## 🔝 Top Contributed Repository
-> **[student-readiness-score-engine-frontend](https://github.com/amlan-ccc/student-readiness-score-engine-frontend)** 🔒 *(Internal CCC Enterprise Repository)*
-* Development of analytics interface and assessment evaluation engine.
-* **Core Stack:** React.js, TypeScript, TailWindCSS
+### 🔝 Top Contributed Repository
+> **[student-readiness-score-engine-frontend](https://github.com/amlan-ccc/student-readiness-score-engine-frontend)** 🔒 *(Private Enterprise Repository)*
+
+An AI-powered assessment platform designed to determine student readiness levels, identify core skill gaps, and serve personalized learning tracks.
+
+*   **Architecture:** Scalable, Type-Safe Feature-Based Architecture (isolated component, hook, schema, and service encapsulation layers per business module).
+*   **Tech Stack:** React 19, TypeScript, Vite, TanStack Router, Tailwind CSS, Shadcn UI, Radix UI.
+*   **Engineering Contributions:** Implemented feature structure guidelines, rigorous type-safety conventions (`avoid-any`), strict endpoint service isolation, and lint/build optimization pipelines.
 
 ---
 # 📊 GitHub Stats
