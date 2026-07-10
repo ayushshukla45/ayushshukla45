@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;LeetCode+%7C+200%2B+CodeChef+Problems;Frontend+Developer+%7C+React+%26+TypeScript;Machine+Learning+Enthusiast;Google+Student+Ambassador"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;200%2B+LeetCode+%7C+200%2B+CodeChef+Problems;Frontend+Developer+%7C+React+%26+TypeScript;Machine+Learning+Enthusiast;Google+Student+Ambassador"/>
 </p>
 
 <p align="center">
