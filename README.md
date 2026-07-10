@@ -1,129 +1,164 @@
-<h1 align="center">Hi, I'm Ayush Shukla</h1>
 
-<h3 align="center">
-Computer Science Engineering Student & Frontend Developer <br>
-SRM University, Andhra Pradesh | DSA Enthusiast
-</h3>
+# 👋 Hi, I'm Ayush Shukla
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Engineering+Student;Frontend+Developer+%7C+React.js+Enthusiast;Machine+Learning+Explorer;Solved+200%2B+Problems+on+LeetCode+%26+CodeChef&font=Fira+Code&center=true&color=00F7FF&width=700&height=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:6C63FF&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Frontend%20Developer%20|%20Machine%20Learning%20Enthusiast&descAlignY=60"/>
 </p>
 
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;Frontend+Developer+%7C+React+%26+TypeScript;Machine+Learning+Enthusiast;Google+Student+Ambassador;200%2B+LeetCode+%7C+200%2B+CodeChef+Problems"/>
+</p>
 
-## About Me
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ayushshukla45&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
-- 🎓 B.Tech in Computer Science & Engineering at **SRM University, Andhra Pradesh**
-- 💻 Frontend Developer with experience in **React.js & TypeScript**
-- 🤖 Exploring **Machine Learning** and AI-powered applications
-- 📈 Solved **200+ problems** on both **LeetCode** and **CodeChef**
-- 🚀 Currently building real-world full-stack and AI projects
-- 🌱 Placement preparation journey in progress
-- 📷 Instagram: **@urayushshukla**
-
----
-
-## Tech Stack
-
-<p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-
+## 🌐 Connect
+<p align="center">
+<a href="https://github.com/ayushshukla45"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://linkedin.com/in/urayushshukla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="mailto:urayushshukla@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://leetcode.com/u/Ayushshukla67"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/></a>
+<a href="https://www.codechef.com/users/shy_seas_44"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef"/></a>
 </p>
 
 ---
 
-## Featured Projects
+## 👨‍💻 About Me
 
-### 🚀 Rentie – Cloth Rental Platform
-
-**Tech:** React.js • Tailwind CSS • REST APIs • Node.js • Express.js • GitHub
-
-- Built a modern MERN-based clothing rental platform with product browsing, cart, and date-based booking.
-- Integrated **12+ REST APIs** and implemented **8+ core platform features**.
-- Optimized responsive UI, reducing page load time by **25%**.
-
----
-
-### 📊 FinDash – Interactive Financial Dashboard
-
-**Tech:** React.js • TypeScript • Tailwind CSS • Recharts • Context API
-
-- Developed an interactive dashboard featuring **6+ financial charts**.
-- Built reusable React components for cleaner and scalable UI.
-- Deployed using Netlify with GitHub integration and TypeScript optimizations.
+- 🎓 B.Tech CSE @ **SRM University AP**
+- 💼 Product Engineering with AI Intern @ CCC Digital India
+- ⚛️ Frontend Developer specializing in React & TypeScript
+- 🤖 Interested in AI, ML and Full Stack Development
+- 🧩 200+ LeetCode & 200+ CodeChef problems solved
+- 🌱 Currently building scalable web & ML applications
 
 ---
 
-## GitHub Stats
+## 🛠 Tech Stack
 
 <p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind"/>
+</p>
 
+**ML:** Scikit-learn • Pandas • NumPy • Streamlit
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍 Rentie
+- MERN clothing rental platform
+- Responsive Tailwind UI
+- REST APIs & booking workflow
+
+### 📊 FinDash
+- React + TypeScript
+- Interactive analytics dashboard
+- Recharts + Context API
+
+### 🎓 Academic Performance Prediction
+- Random Forest ML Model
+- Streamlit Deployment
+- GPA Prediction Dashboard
+
+---
+
+## 💼 Experience
+
+### CCC Digital India
+- Multi-role login portal
+- AI chatbot integration
+- Chart.js analytics
+- REST API integration
+
+### Next Tech Labs
+- 10+ reusable React components
+- Responsive web platform
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=ayushshukla45&show_icons=true&theme=tokyonight"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshukla45&layout=compact&theme=tokyonight"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushshukla45&theme=tokyonight"/>
-
 </p>
 
----
+## 🌍 Contribution Graph
 
-## GitHub Trophies
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushshukla45&theme=tokyo-night"/>
 
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayushshukla45&theme=algolia&no-frame=true&row=1&column=7"/>
+
+## 🐍 Snake Contribution
+
+> Enable using GitHub Actions after creating the profile repo.
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ayushshukla45
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+```
+
+Display:
+
+```md
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushshukla45&theme=onestar&no-frame=true&row=1&column=6"/>
-
+<img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/github-contribution-grid-snake.svg"/>
 </p>
+```
 
-<img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif"/>
+## 💻 Coding Profiles
 
----
+- LeetCode: 200+ Problems
+- CodeChef: 200+ Problems (Bronze)
 
-## Certifications
+## 📜 Certifications
 
-- GirlScript Summer of Code (GSSoC'25) — GirlScript Foundation
-- Open Source Connect India — Open Source Program
-- HACKX Hackathon (2025) — Microsoft Student Community
+- GirlScript Summer of Code 2025
+- Open Source Connect India
+- HACKX - Microsoft Student Community
 
----
+## 🏅 Achievements
 
-## Achievements
+- Google Student Ambassador
+- UIMO AIR 843
+- NSTSE AIR 1948
 
-- 🏆 Google Student Ambassador (Google Gemini Program)
-- 💡 Solved **200+ problems** on LeetCode
-- ⭐ Solved **200+ problems** on CodeChef and earned the **Bronze Badge**
-- 🥇 Unified International Mathematics Olympiad (UIMO) — **AIR 843**
-- 🥈 National Level Talent Search Examination (NSTSE) — **AIR 1948**
+## 💬 Random Dev Quote
 
----
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-## Connect with Me
 
-**GitHub:** https://github.com/ayushshukla45
 
-**LinkedIn:** https://linkedin.com/in/urayushshukla
+## 🎯 Fun Facts
 
-**Email:** urayushshukla@gmail.com
+- ☕ Coffee + Code = Productivity
+- 🚀 Love building impactful products
+- 📚 Always learning something new
 
----
+## 🤝 Let's Connect
 
-### ⭐ Keep Learning, Keep Building, Keep Growing ⭐
+If you'd like to collaborate on Web Development, AI, Open Source, or Hackathons, feel free to connect!
+
+⭐ If you like my work, consider starring my repositories.
