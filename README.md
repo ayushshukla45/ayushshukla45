@@ -2,11 +2,11 @@
 # 👋 Hi, I'm Ayush Shukla
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:6C63FF&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full%20Stack%20Developer%20|%20AI%20ML%20Engineer&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:6C63FF&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full%20Stack%20Developer%20|%20AI/ML%20Engineer&descAlignY=60"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;200%2B+LeetCode+%7C+200%2B+CodeChef+Problems;Frontend+Developer+%7C+React+%26+TypeScript;AI+/ML+Engineer;Google+Student+Ambassador"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;200%2B+LeetCode+%7C+200%2B+CodeChef+Problems;Frontend+Developer+%7C+React+%26+TypeScript;AI/ML+Engineer;Google+Student+Ambassador"/>
 </p>
 
 <p align="center">
