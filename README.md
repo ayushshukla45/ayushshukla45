@@ -1,7 +1,15 @@
 # 👋 Hi, I'm Ayush Shukla
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:1F6FEB,100:8957E5&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20AI%2FML%20%7C%20Problem%20Solving&descAlignY=60&descSize=18" width="100%" alt="Ayush Shukla — Developer Portfolio Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:6C63FF&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full%20Stack%20Developer%20|%20AI/ML%20Engineer&descAlignY=60"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;200%2B+LeetCode+%7C+200%2B+CodeChef+Problems;Frontend+Developer+%7C+React+%26+TypeScript;AI/ML+Engineer;Google+Student+Ambassador"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ayushshukla45&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ## 🌐 Connect
