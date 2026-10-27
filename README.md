@@ -102,3 +102,16 @@ An AI-powered assessment platform designed to determine student readiness levels
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" alt="Snake animation" />
 </p>
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=shivamdwivedicse\&theme=tokyonight)
+
+## 📌 Current Focus
+
+✔ Improving Knowledge and Skills
+✔ Learning Deep Learning architectures
+✔ Building strong Data Science portfolio
+✔ Preparing for Data Analyst / Data Scientist roles
+
+---
