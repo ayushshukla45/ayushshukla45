@@ -55,12 +55,28 @@
   <!-- Core Languages & Frameworks -->
   <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind" alt="Tech Stack" />
   <br><br>
-  <!-- Machine Learning & Data Engineering — Fully Harmonized -->
-  <img src="https://img.shields.io/badge/Scikit--Learn-1a1b26?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-1a1b26?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-1a1b26?style=for-the-badge&logo=numpy&logoColor=013243" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-1a1b26?style=for-the-badge&logo=matplotlib&logoColor=ffffff" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Streamlit-1a1b26?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
+ 
+### 📌 Programming & Data Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+### 🤖 Machine Learning
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![KNN](https://img.shields.io/badge/KNN-ML-blue?style=for-the-badge)
+![SVM](https://img.shields.io/badge/SVM-ML-green?style=for-the-badge)
+
+### 🧠 Deep Learning (Learning Phase)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras)
+
+---
 </p>
 
 ---
