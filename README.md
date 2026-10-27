@@ -148,9 +148,16 @@ I enjoy learning by building, solving challenging problems, and turning ideas in
 - 💼 Preparing for software development and AI/ML internship opportunities
 
 -
+
+## 💬 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
 <a href="mailto:urayushshukla@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ayush"/>
 </a>
 <p align="center">
   <i>Building, learning, and improving — one project at a time.</i>
 </p>
+
