@@ -83,11 +83,14 @@ I enjoy learning by building, solving challenging problems, and turning ideas in
 
 ### 🤖 Machine Learning
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logoColor=white)
 ![KNN](https://img.shields.io/badge/KNN-ML-blue?style=for-the-badge)
 ![SVM](https://img.shields.io/badge/SVM-ML-green?style=for-the-badge)
-
 ### 🧠 Deep Learning (Learning Phase)
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
