@@ -43,7 +43,7 @@
 
 I'm a Computer Science and Engineering student at **SRM University, Andhra Pradesh**, interested in building practical software solutions at the intersection of web development, AI, and machine learning.
 
-- 💼 **Experience:** Product Engineering with AI Intern at CCC Digital India
+- 💼 **Experience:** - 💼 **Experience:** [Product Engineering with AI Intern — CCC Digital India]🏆 *(Recognized for outstanding intern performance and awarded a cash prize.)*
 - 🎓 **Education:** B.Tech in Computer Science and Engineering, SRM University AP
 - 📊 **Academic Performance:** 8.8 CGPA through the 4th semester
 - 💻 **Development:** React, TypeScript, JavaScript, and modern web technologies
