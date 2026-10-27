@@ -84,9 +84,8 @@
 ## 💬 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-## 🌍 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushshukla45&theme=tokyo-night"/>
+
 
 ## 🐍 Snake Contribution
 
