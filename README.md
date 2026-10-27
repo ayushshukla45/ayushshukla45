@@ -93,6 +93,24 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayushshukla45&theme=tokyonight)
 
+### 📊 GitHub Analytics
+
+<div align="center">
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushshukla45&theme=github_dark" width="31%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushshukla45&theme=github_dark" width="31%" />
+  </p>
+
+  <img src="https://streak-stats.demolab.com/?user=ayushshukla45&hide_border=false&background=0D1117&ring=B392F0&fire=B392F0&currStreakLabel=B392F0&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D" alt="GitHub Streak" height="170" />
+
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+</div>
+
+---
+
+
 ## 📌 Current Focus
 
 ✔ Improving Knowledge and Skills
