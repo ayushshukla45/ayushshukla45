@@ -1,118 +1,199 @@
-
 # 👋 Hi, I'm Ayush Shukla
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00C6FF,100:6C63FF&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20|%20Full%20Stack%20Developer%20|%20AI/ML%20Engineer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:1F6FEB,100:8957E5&text=Ayush%20Shukla&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20%7C%20AI%2FML%20%7C%20Problem%20Solving&descAlignY=60&descSize=18" width="100%" alt="Ayush Shukla — Developer Portfolio Banner"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Science+Engineering+Student;200%2B+LeetCode+%7C+200%2B+CodeChef+Problems;Frontend+Developer+%7C+React+%26+TypeScript;AI/ML+Engineer;Google+Student+Ambassador"/>
+  <a href="https://github.com/ayushshukla45">
+    <img src="https://img.shields.io/badge/GitHub-ayushshukla45-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+  </a>
+  <a href="https://linkedin.com/in/urayushshukla">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile"/>
+  </a>
+  <a href="mailto:urayushshukla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ayush"/>
+  </a>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ayushshukla45&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=B.Tech+CSE+%40+SRM+University+AP;Product+Engineering+with+AI+Intern+%40+CCC+Digital+India;Building+Web+Applications+%26+AI%2FML+Projects;200%2B+LeetCode+%7C+200%2B+CodeChef+Problems" alt="Developer introduction"/>
 </p>
 
-## 🌐 Connect
+---
+
+## 🚀 About Me
+
+I'm a Computer Science and Engineering student at **SRM University, Andhra Pradesh**, interested in building practical software solutions at the intersection of web development, AI, and machine learning.
+
+- 💼 **Experience:** Product Engineering with AI Intern at CCC Digital India
+- 🎓 **Education:** B.Tech in Computer Science and Engineering, SRM University AP
+- 💻 **Development:** React, TypeScript, JavaScript, and modern web technologies
+- 🤖 **AI/ML:** Python, data analysis, feature engineering, and machine learning
+- 🧩 **Problem Solving:** 200+ problems solved on LeetCode and 200+ on CodeChef
+- 🌱 **Currently Exploring:** Deep learning, scalable applications, and applied AI
+
+I enjoy learning by building, solving challenging problems, and turning ideas into useful applications.
+
+---
+
+## 🛠️ Technical Skills
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Programming Languages</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" alt="C, C++, Python, JavaScript, TypeScript"/>
+    </td>
+    <td align="center" width="50%">
+      <strong>Frontend Development</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React, Tailwind CSS"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>Backend & Databases</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Node.js, Express, MongoDB, MySQL"/>
+    </td>
+    <td align="center" width="50%">
+      <strong>Tools & Platforms</strong><br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code"/>
+    </td>
+  </tr>
+</table>
+
+### 📊 Data Science & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" alt="Seaborn"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/XGBoost-AA0000?style=flat-square" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+</p>
+
+### 🧠 Core Computer Science
+
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- SQL and REST APIs
+- Data Preprocessing and Feature Engineering
+
+---
+
+## 💼 Professional Experience
+
+### Product Engineering with AI Intern — CCC Digital India
+
+- Contributing to product engineering tasks involving AI-driven solutions.
+- Applying software development and problem-solving skills to practical engineering work.
+- Exploring the integration of AI capabilities into product workflows.
+
+*Update these bullets with your actual responsibilities, technologies, and measurable results to make your experience more compelling.*
+
+---
+
+## 🌟 Featured Projects
+
+### 🧴 Minimalist Skincare Companion App
+A skincare-focused web application designed to provide a simple, user-friendly experience.
+
+- **Tech:** React / web technologies used in the project
+- **Live Demo:** [Open Application](https://minimalist-skincare-companionapp.netlify.app/)
+- **Source Code:** [GitHub Repository](https://github.com/ayushshukla45/Project-Minimalist-Companion-App)
+
+### 📊 Finance Dashboard
+A dashboard project focused on presenting financial information through an organized interface.
+
+- **Tech:** Web development and data visualization
+- **Source Code:** [Finance Dashboard](https://github.com/ayushshukla45/Finance-Dashboard)
+
+### 🧮 Algorithm Visualizer
+An interactive project for exploring algorithms and understanding their execution visually.
+
+- **Live Demo:** [Try the Visualizer](https://ayushshukla45.github.io/algorithm-visualizer/)
+- **Source Code:** [GitHub Repository](https://github.com/ayushshukla45/algorithm-visualizer)
+
+### 🎓 Student Record Management System
+A student management project designed to organize and manage student-related information.
+
+- **Live Demo:** [Explore SRMS](https://ayushshukla45.github.io/SRMS/)
+- **Source Code:** [GitHub Repository](https://github.com/ayushshukla45/SRMS)
+
+### 🖥️ Python Desktop Application
+A desktop application project developed using Python and PyQt.
+
+- **Source Code:** [Desktop App using Python and PyQt](https://github.com/ayushshukla45/Desktop-App-using-Python-and-PyQt)
+
+---
+
+## 🧩 Competitive Programming
+
 <p align="center">
-
-<a href="https://github.com/ayushshukla45">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<a href="https://linkedin.com/in/urayushshukla">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:urayushshukla@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-<a href="https://leetcode.com/u/Ayushshukla67">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-
-<a href="https://www.codechef.com/users/ayush_shukla9">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-</a>
-
+  <a href="https://leetcode.com/u/Ayushshukla67">
+    <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode — 200+ Problems"/>
+  </a>
+  <a href="https://www.codechef.com/users/ayush_shukla9">
+    <img src="https://img.shields.io/badge/CodeChef-200%2B%20Problems-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef — 200+ Problems"/>
+  </a>
 </p>
 
-## 👨‍💻 About Me
-
-- 🎓 B.Tech CSE @ **SRM University AP**
-- 💼 Product Engineering with AI Intern @ CCC Digital India
-- ⚛️ Frontend Developer specializing in React & TypeScript
-- 🤖 Interested in AI, ML and Full Stack Development
-- 🧩 200+ LeetCode & 200+ CodeChef problems solved
-- 🌱 Currently building scalable web & ML applications
+I regularly practice data structures and algorithms to strengthen my analytical thinking, coding efficiency, and problem-solving skills.
 
 ---
 
-## 🛠 Tech Stack
-
-<p align="left">
-  <!-- Core Languages & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,nodejs,express,mongodb,mysql,git,github,vscode,tailwind" alt="Tech Stack" />
-  <br><br>
- 
-### 📌 Programming & Data Tools
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-
-### 🤖 Machine Learning
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge)
-![KNN](https://img.shields.io/badge/KNN-ML-blue?style=for-the-badge)
-![SVM](https://img.shields.io/badge/SVM-ML-green?style=for-the-badge)
-
-### 🧠 Deep Learning (Learning Phase)
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge\&logo=keras)
-
----
-</p>
-
-## 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🐍 Snake Contribution
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushshukla45&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshukla45&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Most used programming languages"/>
 </p>
 
-## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ayushshukla45&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ayushshukla45&theme=tokyonight)
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushshukla45&theme=github_dark" width="31%" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushshukla45&theme=github_dark" width="31%" />
-  </p>
-
-  <img src="https://streak-stats.demolab.com/?user=ayushshukla45&hide_border=false&background=0D1117&ring=B392F0&fire=B392F0&currStreakLabel=B392F0&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D" alt="GitHub Streak" height="170" />
-
-  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshukla45&theme=github_dark" width="100%" alt="GitHub contribution summary"/>
+</p>
 
 ---
 
+## 🐍 Contribution Activity
 
-## 📌 Current Focus
-
-✔ Improving Knowledge and Skills
-✔ Learning Deep Learning architectures
-✔ Building strong Data Science portfolio
-✔ Preparing for Data Analyst / Data Scientist roles
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" width="100%" alt="Snake animation of GitHub contributions"/>
+</p>
 
 ---
+
+## 🎯 Current Focus
+
+- 🚀 Building projects that demonstrate practical software engineering skills
+- 🤖 Learning deep learning architectures and applied machine learning
+- 📊 Strengthening data analysis and model evaluation skills
+- 🧩 Improving DSA and competitive programming performance
+- 💼 Preparing for software development and AI/ML internship opportunities
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to connecting with developers, collaborating on interesting projects, and learning from people working in software engineering and AI.
+
+<p align="center">
+  <a href="https://linkedin.com/in/urayushshukla">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="mailto:urayushshukla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact by email"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>Building, learning, and improving — one project at a time.</i>
+</p>
