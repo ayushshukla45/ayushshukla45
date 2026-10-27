@@ -103,10 +103,7 @@
 
   <img src="https://streak-stats.demolab.com/?user=ayushshukla45&hide_border=false&background=0D1117&ring=B392F0&fire=B392F0&currStreakLabel=B392F0&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D" alt="GitHub Streak" height="170" />
 
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</div>
+  
 
 ---
 
