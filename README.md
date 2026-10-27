@@ -45,6 +45,7 @@ I'm a Computer Science and Engineering student at **SRM University, Andhra Prade
 
 - 💼 **Experience:** Product Engineering with AI Intern at CCC Digital India
 - 🎓 **Education:** B.Tech in Computer Science and Engineering, SRM University AP
+- 📊 **Academic Performance:** 8.8 CGPA through the 4th semester
 - 💻 **Development:** React, TypeScript, JavaScript, and modern web technologies
 - 🤖 **AI/ML:** Python, data analysis, feature engineering, and machine learning
 - 🧩 **Problem Solving:** 200+ problems solved on LeetCode and 200+ on CodeChef
