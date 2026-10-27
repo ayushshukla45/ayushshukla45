@@ -119,9 +119,6 @@ I enjoy learning by building, solving challenging problems, and turning ideas in
   <img src="https://streak-stats.demolab.com?user=ayushshukla45&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushshukla45&theme=github_dark" width="100%" alt="GitHub contribution summary"/>
-</p>
 
 ---
 
