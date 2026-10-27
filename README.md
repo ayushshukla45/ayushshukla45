@@ -79,13 +79,9 @@
 ---
 </p>
 
-
-
 ## 💬 Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
 
 ## 🐍 Snake Contribution
 
@@ -93,11 +89,9 @@
   <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" alt="Snake animation" />
 </p>
 
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ayushshukla45&theme=tokyonight)
-
 
 ## 📌 Current Focus
 
