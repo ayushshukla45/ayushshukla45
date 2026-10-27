@@ -79,16 +79,7 @@
 ---
 </p>
 
----
-<!--### 🔝 Top Contributed Repository
-> **[student-readiness-score-engine-frontend](https://github.com/amlan-ccc/student-readiness-score-engine-frontend)** 🔒 *(Private Enterprise Repository)*
 
-An AI-powered assessment platform designed to determine student readiness levels, identify core skill gaps, and serve personalized learning tracks.
-
-*   **Core Impact:** Primary Frontend Architect — **Author of 89 out of the 91 total lifetime commits (97% of entire codebase)** | Maintained all **9 lifecycle Pull Requests**.
-*   **Architecture:** Scalable, Type-Safe Feature-Based Architecture (isolated component, hook, schema, and service encapsulation layers per business module).
-*   **Tech Stack:** React 19, TypeScript, Vite, TanStack Router, Tailwind CSS, Shadcn UI, Radix UI.
-*   **Engineering Contributions:** Implemented feature structure guidelines, rigorous type-safety conventions (`avoid-any`), strict endpoint service isolation, and lint/build optimization pipelines.-->
 
 ## 💬 Random Dev Quote
 
@@ -103,9 +94,11 @@ An AI-powered assessment platform designed to determine student readiness levels
   <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" alt="Snake animation" />
 </p>
 
+
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=shivamdwivedicse\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ayushshukla45&theme=tokyonight)
+
 
 ## 📌 Current Focus
 
