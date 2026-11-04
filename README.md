@@ -125,7 +125,7 @@ I enjoy learning by building, solving challenging problems, and turning ideas in
 
   <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushshukla45&theme=github_dark" width="31%" alt="Repositories per language" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushshukla45&theme=github_dark" width="31%" alt="Most used languages by commits" />
+    <img src="./profile/stats.svg" width="31%" alt="GitHub overview: repositories, stars, commits and contributions" />
   </p>
 
   <img src="https://streak-stats.demolab.com/?user=ayushshukla45&hide_border=false&background=0D1117&ring=B392F0&fire=B392F0&currStreakLabel=B392F0&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D" alt="GitHub contribution streak" height="170" />
