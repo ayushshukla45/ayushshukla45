@@ -99,22 +99,25 @@ def render_stats(user: dict, contributions: dict) -> None:
     total = contributions["contributionCalendar"]["totalContributions"]
     followers = user["followers"]["totalCount"]
 
-    parts = [svg_start(495, 165, f"GitHub statistics for {USERNAME}")]
+    # Match the tall GitHub Profile Summary Cards aspect ratio so both
+    # cards in the README's top row have a consistent height.
+    parts = [svg_start(495, 300, f"GitHub activity overview for {USERNAME}")]
     parts += [
-        text(24, 29, "GitHub Statistics", 15, TEXT, 700),
-        f'<line x1="24" y1="43" x2="471" y2="43" stroke="{BORDER}"/>',
+        text(28, 39, "GitHub Activity Overview", 19, TEXT, 700),
+        f'<line x1="28" y1="57" x2="467" y2="57" stroke="{BORDER}"/>',
     ]
     metrics = [
-        (30, 82, str(repo_conn["totalCount"]), "Public repositories", BLUE),
-        (265, 82, str(stars), "Stars earned", GREEN),
-        (30, 124, str(commits), "Commits · last 365 days", PURPLE),
-        (265, 124, str(prs + issues), "PRs & issues · last 365 days", BLUE),
+        (38, 116, str(repo_conn["totalCount"]), "Public repositories", BLUE),
+        (270, 116, str(stars), "Stars earned", GREEN),
+        (38, 211, str(commits), "Commits · last 365 days", PURPLE),
+        (270, 211, str(prs + issues), "PRs & issues · last 365 days", BLUE),
     ]
     for x, y, value, label, color in metrics:
-        parts.append(text(x, y, value, 23, color, 700))
-        parts.append(text(x, y + 17, label, 11, MUTED))
-    parts.append(text(471, 151, f"{followers} followers  ·  {forks} forks  ·  {total} contributions / 365d",
-                      10, MUTED, 400, "end"))
+        parts.append(text(x, y, value, 34, color, 700))
+        parts.append(text(x, y + 25, label, 14, MUTED))
+    parts.append(text(467, 276,
+                      f"{followers} followers  ·  {forks} forks  ·  {total} contributions / 365d",
+                      11, MUTED, 400, "end"))
     write_svg("stats.svg", "".join(parts))
 
 def render_languages(repos: list[dict]) -> None:
