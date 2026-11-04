@@ -121,22 +121,24 @@ I enjoy learning by building, solving challenging problems, and turning ideas in
 ---
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="./profile/stats.svg" height="165" alt="GitHub statistics" />
-  <img src="./profile/top-langs.svg" height="165" alt="Most used programming languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="./profile/streak.svg" width="100%" alt="GitHub contribution streak" />
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushshukla45&theme=github_dark" width="31%" alt="Repositories per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayushshukla45&theme=github_dark" width="31%" alt="Most used languages by commits" />
+  </p>
+
+  <img src="https://streak-stats.demolab.com/?user=ayushshukla45&hide_border=false&background=0D1117&ring=B392F0&fire=B392F0&currStreakLabel=B392F0&currStreakNum=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&stroke=30363D" alt="GitHub contribution streak" height="170" />
+
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" alt="GitHub contribution snake animation" width="100%" />
+
+</div>
 
 ---
 
-## 🐍 Contribution Activity
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushshukla45/ayushshukla45/output/snake.svg" width="100%" alt="Snake animation of GitHub contributions"/>
-</p>
 
 ---
 
