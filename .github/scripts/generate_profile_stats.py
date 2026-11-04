@@ -183,9 +183,7 @@ def render_streak(contributions: dict, days: list[tuple[str, int]]) -> None:
         text(166, 106, "Contributions", 15, TEXT, 500, "middle"),
         text(166, 132, f"{period_start} – present", 12, MUTED, 400, "middle"),
         f'<circle cx="500" cy="77" r="42" fill="none" stroke="{BORDER}" stroke-width="7"/>',
-        f'<circle cx="500" cy="77" r="42" fill="none" stroke="{BLUE}" stroke-width="7" '
-        f'stroke-linecap="round" stroke-dasharray="{min(current, 365)/365*263.9:.1f} 263.9" '
-        f'transform="rotate(-90 500 77)"/>',
+        f'<circle cx="500" cy="77" r="42" fill="none" stroke="{BLUE}" stroke-width="7"/>',
         text(500, 86, current, 27, TEXT, 700, "middle"),
         text(500, 137, "Current Streak", 15, TEXT, 700, "middle"),
         text(500, 158, today_label, 12, MUTED, 400, "middle"),
