@@ -28,7 +28,7 @@ jobs:
 
       - name: Generate profile SVG cards
         env:
-          GITHUB_TOKEN: \${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: ayushshukla45
         run: python .github/scripts/generate_profile_stats.py
 
