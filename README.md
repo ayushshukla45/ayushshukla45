@@ -119,18 +119,17 @@ I enjoy learning by building, solving challenging problems, and turning ideas in
 </p>
 
 ---
-
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushshukla45&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushshukla45&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" alt="Most used programming languages"/>
+  <img src="https://YOUR-DOMAIN.vercel.app/api?username=ayushshukla45&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" />
+
+  <img src="https://YOUR-DOMAIN.vercel.app/api/top-langs/?username=ayushshukla45&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushshukla45&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=ayushshukla45&theme=github-dark-blue&hide_border=true" />
 </p>
-
 
 ---
 
