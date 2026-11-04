@@ -118,7 +118,7 @@ def render_stats(user: dict, contributions: dict) -> None:
     parts.append(text(467, 276,
                       f"{followers} followers  ·  {forks} forks  ·  {total} contributions / 365d",
                       11, MUTED, 400, "end"))
-    write_svg("stats.svg", "".join(parts))
+    write_svg("activity-overview.svg", "".join(parts))
 
 def render_languages(repos: list[dict]) -> None:
     totals: Counter[str] = Counter()
